@@ -50,5 +50,6 @@
     "hooks": {
       "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
     }
-  }
+  },
+  "version": "1.0.0"
 }
